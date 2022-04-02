@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // 处理命令行
 const program = require("commander");
 // 下载模板
